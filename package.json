@@ -1,0 +1,28 @@
+{
+  "name": "scrapeapp",
+  "version": "1.0.0",
+  "description": "An app to scrape data from a website and store it in a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldaly/Mongo-Cheerio-App.git"
+  },
+  "author": "Alyson Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emeraldaly/Mongo-Cheerio-App/issues"
+  },
+  "homepage": "https://github.com/emeraldaly/Mongo-Cheerio-App#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cheerio": "^0.20.0",
+    "dependencies": "0.0.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.4.6",
+    "request": "^2.69.0"
+  }
+}
